@@ -2,7 +2,7 @@
 
 This project was completed as part of the **CS2233** course under the guidance of **Dr. Rajesh Kedia**. The goal of the project is to develop a **RISC-V Disassembler**, which converts RISC-V machine code into human-readable RISC-V instructions.
 
-## Authors
+## Author
 
 - [@M-Charith](https://github.com/M-Charith)
 
